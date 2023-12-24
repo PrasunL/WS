@@ -1,2 +1,1 @@
-# WS
-life is not daijobu
+This is a simple web scraper project
